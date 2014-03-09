@@ -10,12 +10,9 @@ The project designs an interface with following functionalities:
 
 4. Time reversal : Reverse the wave along time axis.
 
-5. Mixing : This is a necessary feature for this assignment, you have to set certain
-values (mentioned above) for each wave selected and then mix them to get another
-wave as output.
+5. Mixing : Set certain values (mentioned above) for each wave selected and then mix them to get another wave as output.
 
-6. Modulation : Similarly, here also you have to set certain values for each wave
-selected and then modulate them to get another wave as output.
+6. Modulation : Set certain values for each wave selected and then modulate them to get another wave as output.
 
 
 How to use
