@@ -1,8 +1,6 @@
 Wave-Mixer
 ==========
 
-README
-
 The project designs an interface with following functionalities:
 
 1. Amplitude Scaling : Given a wave­form you have to scale with certain amount.
@@ -19,6 +17,7 @@ The project designs an interface with following functionalities:
 
 
 How to use
+==========
 
 Install the necessary packages using the following commands:
 
