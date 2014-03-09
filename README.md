@@ -21,12 +21,13 @@ How to use
 
 Install the necessary packages using the following commands:
 
-
+```
 sudo apt-get install python-pyaudio
 
 sudo apt-get install python-wxgtk2.8
-
+```
 
 Run the command:
-
+```
 python wavemixer.py
+```
